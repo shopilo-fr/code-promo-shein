@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-shein",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo SHEIN depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-shein",
+    "bon-de-reduction-shein",
+    "coupon-shein",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/shein.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-shein.git"
+  }
+}
